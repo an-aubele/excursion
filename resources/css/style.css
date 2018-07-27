@@ -8,13 +8,14 @@ h1 {
   font-size: 50px;
   font-weight: normal;
 }
-header a {
+a {
   color: aquamarine;
   font-size: 16px;
 }
 h2 {
   font-size: 42px;
   font-weight: 300;
+  color: white;
 }
 p {
   font-size:  21px;
